@@ -41,5 +41,6 @@ So let him be, this bachelor guy,
 For laziness, too, can teach us why
 A pause in life's rush, a moment of rest,
 May lead to insights, to what truly is best.
+
 ---
 ```
